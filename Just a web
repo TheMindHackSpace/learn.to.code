@@ -1,16 +1,1 @@
-Okay, ladies and gentleman. This is the code that I've been working on it for months until now .
-It's an web app that I created so here is it ...
 
-#include <iostream>
-using namespace std;
-
-int main () {
-    int a, b;
-    cin >> a >> b;
-        if (a == b) {
-        cout << "a este egal cu b";
-        }  else  {
-        cout << "b nu este egal cu a";
-    }
-return 0;
-}
